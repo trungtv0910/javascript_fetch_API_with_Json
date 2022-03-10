@@ -1,0 +1,299 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thịt Các Loại"
+    },
+    {
+      "id": 2,
+      "name": "Cá Các Loại"
+    },
+    {
+      "id": 3,
+      "name": "Hải Sản Các Loại"
+    },
+    {
+      "id": 4,
+      "name": "Trái Cây và Rau Củ"
+    },
+    {
+      "id": 5,
+      "name": "Đồ Uống Các Loại"
+    },
+    {
+      "id": 6,
+      "name": "Mì, Cháo, Bún, Phở"
+    },
+    {
+      "id": 7,
+      "name": "Dầu ăn, Gia vị"
+    },
+    {
+      "id": 8,
+      "name": "Gạo và Đồ khô"
+    },
+    {
+      "id": 9,
+      "name": "Dồ đông lạnh"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Ức gà tươi phi lê C.P khay 500g (1-3 miếng)",
+      "cate_id": 1,
+      "image": "uc-ga.jpg",
+      "price": "43500",
+      "detail": "Ức gà tươi phi lê CP đạt các tiêu chuẩn về an toàn thực phẩm, đảm bảo về chất lượng, độ tươi và ngon, xuất xứ rõ ràng, được dùng nhiều trong chế độ ăn uống khoa học như giảm cân, tăng cơ bắp. Sản phẩm có 2 mã QR để khách hàng có thể truy xuất nguồn gốc thịt, vô cùng an tâm."
+    },
+    {
+      "id": 2,
+      "name": "Ba rọi heo túi 500g",
+      "cate_id": 1,
+      "image": "ba-roi-2.jpg",
+      "price": "100000",
+      "detail": "Ba rọi heo của Bách Hóa Xanh được đóng gói và bảo quản theo những tiêu chuẩn nghiêm ngặt về vệ sinh và an toàn thực phẩm, đảm bảo về chất lượng, độ tươi và ngon của thực phẩm, xuất xứ rõ ràng. Tỉ lệ nạc mỡ tuyệt với, thịt săn chắc ngọt nên thường được chế biến món ăn như thịt luộc, thịt nướng..."
+    },
+    {
+      "id": 3,
+      "name": "Cá saba đông lạnh túi 500g (1-2 con)",
+      "cate_id": 2,
+      "image": "ca-saba.jpg",
+      "price": "34500",
+      "detail": "Cá saba với đặc tính ít xương khi chế biến thịt sẽ có vị ngọt thơm và ăn rất ngon, dễ dàng dùng làm nguyên liệu chế biến các món ngon và chứa nhiều chất dinh dưỡng. Cá saba đông lạnh giúp bảo quản lâu hơn mà thịt cá vẫn chắc, không bở mà vẫn giữ nguyên vị đậm đà."
+    },
+    {
+      "id": 4,
+      "name": "Cá trích nhập khẩu đông lạnh túi 500g (30-33 con)",
+      "cate_id": 2,
+      "image": "ca-trich.jpeg",
+      "price": "34500",
+      "detail": "Cá trích - loài cá tuyệt hảo đối với sức khỏe của con người bởi chứa lượng lớn chất dinh dưỡng quan trọng tốt cho sức khỏe. Cá trích nhập khẩu đông lạnh được cấp đông và bảo quản với công nghệ đại, giúp giữ nguyên độ tươi ngon cũng như hàm lượng dinh dưỡng có trong từng con cá trích."
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "customer_name": "tran van trung",
+      "customer_address": "Quảng ngạn",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "20/12/2021",
+      "status": "Đã thanh toán"
+    },
+    {
+      "id": "2",
+      "customer_name": "Nguyễn Thị Tiên",
+      "customer_address": "Quảng ngạn",
+      "customer_email": "tien@gmail.com",
+      "customer_phone_number": "0973122213",
+      "created_date": "11/1/2022",
+      "status": "Chưa thanh toán"
+    },
+    {
+      "customer_name": "đâ Tuấn Anh Nguyễn",
+      "customer_address": "huế",
+      "customer_email": "khanhvy123@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "YGJH389"
+    },
+    {
+      "customer_name": "dâd Tuấn Tài",
+      "customer_address": "aaa",
+      "customer_email": "khanhvy123@gmail.com",
+      "customer_phone_number": "9999192312",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "dT0as_e"
+    },
+    {
+      "customer_name": "dâd Tuấn Tài",
+      "customer_address": "aaa",
+      "customer_email": "khanhvy123@gmail.com",
+      "customer_phone_number": "9999192312",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "DLNg6wK"
+    },
+    {
+      "customer_name": "yyyyyyyyyyyyyyy Tuấn Tài",
+      "customer_address": "yyyyyyyyyy",
+      "customer_email": "test1@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "vCTZaZl"
+    },
+    {
+      "customer_name": "yyyyyyyyyyyyyyy Tuấn Tài",
+      "customer_address": "yyyyyyyyyy",
+      "customer_email": "test1@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "wdiayHL"
+    },
+    {
+      "customer_name": "đâ trung",
+      "customer_address": "yyyyyyyyyy",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "0973127008a",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "fxkYsrm"
+    },
+    {
+      "customer_name": "xxxxxxxx Tuấn Tài",
+      "customer_address": "aaa",
+      "customer_email": "test1@gmail.com",
+      "customer_phone_number": "0973123122",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "CcLjnnN"
+    },
+    {
+      "customer_name": "2231 Tài",
+      "customer_address": "aadad",
+      "customer_email": "khanhvy123@gmail.com",
+      "customer_phone_number": "09777331231",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "KYZ9IJR"
+    },
+    {
+      "customer_name": "yyyyyyyyyyyyyyy Nguyên Rôn",
+      "customer_address": "aaa",
+      "customer_email": "test1@gmail.com",
+      "customer_phone_number": "9999192312",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "J-3V2IG"
+    },
+    {
+      "customer_name": "dâd sadad",
+      "customer_address": "yyyyyyyyyy",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "UHcnq2E"
+    },
+    {
+      "customer_name": "xxxxxxxx Tuấn Tài",
+      "customer_address": "123123",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "0973123122",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "oKR39_V"
+    },
+    {
+      "customer_name": "dâd Tuấn Anh Nguyễn",
+      "customer_address": "yyyyyyyyyy",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "0973127008a",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "jFZJ9mC"
+    },
+    {
+      "customer_name": "đâ trung",
+      "customer_address": "aadad",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "09777331231",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "Z4kDY3T"
+    },
+    {
+      "customer_name": "dâd trung",
+      "customer_address": "huế",
+      "customer_email": "hue@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "YMk8TWp"
+    },
+    {
+      "customer_name": "dâd trung",
+      "customer_address": "huế",
+      "customer_email": "hue@gmail.com",
+      "customer_phone_number": "0973127008",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "Ear8Zyh"
+    },
+    {
+      "customer_name": "dâd TRần Văn trung",
+      "customer_address": "dâd",
+      "customer_email": "trungtv0910@gmail.com",
+      "customer_phone_number": "01231234",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "1wz4-GM"
+    },
+    {
+      "customer_name": "dâd TRần Văn trung",
+      "customer_address": "dâd",
+      "customer_email": "trungtv0910@gmail.com",
+      "customer_phone_number": "01231234",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "ooBY1oL"
+    },
+    {
+      "customer_name": "dâd TRần Văn trung",
+      "customer_address": "dâd",
+      "customer_email": "trungtv0910@gmail.com",
+      "customer_phone_number": "01231234",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "aIT-F8b"
+    },
+    {
+      "customer_name": "đâ trung",
+      "customer_address": "yyyyyyyyyy",
+      "customer_email": "trung@gmail.com",
+      "customer_phone_number": "9999192312",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "GbkCYfr"
+    },
+    {
+      "customer_name": "adad Tuấn Anh Nguyễn",
+      "customer_address": "aadad",
+      "customer_email": "khanhvy123@gmail.com",
+      "customer_phone_number": "09777331231",
+      "created_date": "2022-02-05",
+      "status": "Chờ xác nhận",
+      "id": "txId1B9"
+    }
+  ],
+  "order_details": [
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "product1",
+      "price": "500",
+      "image": "ba-roi.jpg",
+      "quantity": 4
+    },
+    {
+      "id": 2,
+      "name": "product2",
+      "price": "500",
+      "image": "ba-roi.jpg",
+      "quantity": 15
+    },
+    {
+      "id": 3,
+      "name": "product2",
+      "price": "500",
+      "image": "ba-roi.jpg",
+      "quantity": 15
+    }
+  ]
+}

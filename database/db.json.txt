@@ -1,0 +1,6 @@
+{
+  "product": [
+    	{ "id": 1, "name": "Iphone 7", "cate_id": 1,"image":"https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2019/9/11/637037652457717299_11-den.png","price":"2.500.000","detail":"Samsung Galaxy M52 5G sẽ cùng bạn đón đầu trào lưu kết nối mạng thế hệ thứ năm. Đây là giải pháp tuyệt vời để bạn sở hữu một thiết bị thời thượng mang phong cách tinh tế đậm cá tính, với khả năng đa nhiệm mạnh mẽ trên màn hình Infinity-O rộng rãi và thời lượng sử dụng dài lâu thông qua viên pin 5.000 mAh." },
+ 	{ "id": 2, "name": "Samsung s8", "cate_id": 1,"image":"https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2022/1/6/637770604571212129_samsung-galaxy-m52-g-den-1.jpg","price":"2.500.000","detail":"Samsung Galaxy M52 5G sẽ cùng bạn đón đầu trào lưu kết nối mạng thế hệ thứ năm. Đây là giải pháp tuyệt vời để bạn sở hữu một thiết bị thời thượng mang phong cách tinh tế đậm cá tính, với khả năng đa nhiệm mạnh mẽ trên màn hình Infinity-O rộng rãi và thời lượng sử dụng dài lâu thông qua viên pin 5.000 mAh." }
+  ]
+}

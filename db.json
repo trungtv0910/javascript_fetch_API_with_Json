@@ -1,0 +1,252 @@
+{
+  "categories": [
+    {
+      "name": "Thịt Các Loại",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Cá Các Loại"
+    },
+    {
+      "id": 3,
+      "name": "Hải Sản Các Loại"
+    },
+    {
+      "id": 4,
+      "name": "Trái Cây và Rau Củ"
+    },
+    {
+      "id": 5,
+      "name": "Đồ Uống Các Loại"
+    },
+    {
+      "id": 6,
+      "name": "Mì, Cháo, Bún, Phở"
+    },
+    {
+      "name": "Dầu ăn, Gia vị, Quế",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Gạo và Đồ khô"
+    },
+    {
+      "name": "Dồ đông lạnh",
+      "id": 9
+    }
+  ],
+  "product": [
+    {
+      "name": "Ức gà tươi phi lê C.P khay 500g (1-3 miếng)",
+      "price": "43500",
+      "image": "./img/uc-ga-tuoi-phi-le-khay-500g-1-3-mieng-202111261940447776_300x300.jpg",
+      "detail": "Ức gà tươi phi lê CP đạt các tiêu chuẩn về an toàn thực phẩm, đảm bảo về chất lượng, độ tươi và ngon, xuất xứ rõ ràng, được dùng nhiều trong chế độ ăn uống khoa học như giảm cân, tăng cơ bắp. Sản phẩm có 2 mã QR để khách hàng có thể truy xuất nguồn gốc thịt, vô cùng an tâm.",
+      "cate_id": 1,
+      "id": 1
+    },
+    {
+      "name": "Ba rọi heo túi 500g",
+      "price": "90000",
+      "image": "./img/chan-gio-heo-sau-khay-500g-2-4-mieng-202111262116374001.jpg",
+      "detail": "Ba rọi heo của Bách Hóa Xanh được đóng gói và bảo quản theo những tiêu chuẩn nghiêm ngặt về vệ sinh và an toàn thực phẩm, đảm bảo về chất lượng, độ tươi và ngon của thực phẩm, xuất xứ rõ ràng. Tỉ lệ nạc mỡ tuyệt với, thịt săn chắc ngọt nên thường được chế biến món ăn như thịt luộc, thịt nướng...",
+      "cate_id": 1,
+      "id": 2
+    },
+    {
+      "name": "Cá saba đông lạnh túi 900g (1-3 con)",
+      "price": "50000",
+      "image": "./img/ca-saba-dong-lanh-tui-500g-1-2-con-202112081117466247.jpg",
+      "detail": "Cá saba với đặc tính ít xương khi chế biến thịt sẽ có vị ngọt thơm và ăn rất ngon, dễ dàng dùng làm nguyên liệu chế biến các món ngon và chứa nhiều chất dinh dưỡng. Cá saba đông lạnh giúp bảo quản lâu hơn mà thịt cá vẫn chắc, không bở mà vẫn giữ nguyên vị đậm đà.",
+      "cate_id": 3,
+      "id": 3
+    },
+    {
+      "name": "Snack khoai tây vị thăn bò nướng texas Lay's Wavy gói 95g ngon",
+      "price": "120000",
+      "image": "./img/snack-khoai-tay-vi-than-bo-nuong-texas-lays-wavy-goi-95g-202007300923133984.jpg",
+      "detail": "Snack thơm nức mũi luôn, khoai tây thì mỏng, giòn rụm. Vị khoai tây thật. Snack khoai tây vị thăn bò nướng Texas Lay's Wavy gói 95g ăn rất giòn luôn, vị thăn bò nướng Texas khá thơm, đậm đà trên từng miếng khoai tây. Khoai tây lay's được rất nhiều bạn trẻ đón nhận và sử dụng cho nhiều hoạt động nhé",
+      "cate_id": 8,
+      "id": 5
+    },
+    {
+      "name": "Bò bít tết nhập khẩu đông lạnh túi 500g",
+      "price": "163000",
+      "image": "./img/bo-bit-tet-nhap-khau-dong-lanh-500g-202110182314137664.jpg",
+      "detail": "Beefsteak là món ăn nổi tiếng đến từ phương Tây được làm từ khối thịt bò mềm, ngọt và săn chắc tự nhiên hoà cùng các loại nước sốt. Bò bít tết nhập khẩu đông lạnh tại Bách hoá XANH có nguồn gốc rõ ràng, thích hợp cho món beefsteak thơm ngon với giá phải chăng cho mọi nhà.",
+      "cate_id": 1,
+      "id": 6
+    },
+    {
+      "name": "Thùng 30 gói mì 3 Miền Gold bò hầm rau thơm 75g",
+      "price": "80000",
+      "image": "./img/thung-30-goi-mi-3-mien-gold-bo-ham-rau-thom-75g-202004181113085050.jpg",
+      "detail": "Với sợi mì dai ngon hòa quyện cùng nước súp đậm đà, hương vị thanh đạm mang lại những trải nghiệm thú vị. Gói gia vị 3 Miền đậm đà có dầu thực vật, muối, đường, bột thịt heo, bột hành, bột ớt, hành lá sấy, cà rốt sấy, bắp sấy. 30 gói mì 3 Miền Gold bò hầm rau thơm 75g lựa chọn không thể bỏ qua",
+      "cate_id": 8,
+      "id": 7
+    },
+    {
+      "name": "Hành lá túi 50g",
+      "price": "2500",
+      "image": "./img/hanh-la-goi-50g-202012282236343442.jpg",
+      "detail": "Là một loại rau rất quen thuộc với chị em nội trợ. Hành lá thường được dùng để làm gia vị cho các món ăn, làm tăng hương vị lên gấp nhiều lần. Hầu như các món ăn đều có thể thêm hành lá vào nếu thích. Ngoài ra, hành lá còn có thể dùng để hỗ trợ trị một số bệnh nhẹ như: cảm sốt, nhức đầu,...",
+      "cate_id": 4,
+      "id": 8
+    },
+    {
+      "name": "1/8 Bánh gạo tokbokki Ottogi Jin cay ly 82g",
+      "price": "19400",
+      "image": "./img/banh-gao-tokbokki-ottogi-jin-cay-ly-82g-202008060840331572.jpg",
+      "detail": "Từng thỏi bánh gạo dẻo ngon hòa quyện đậm đà, thấm đều trong nước sốt cay Jin Ottogi hấp dẫn cùng hương thơm lừng quyến rũ. Bánh gạo tokbokki Ottogi Jin cay 82g dạng ly tiện lợi, chế biến đơn giản chỉ cần nước sôi và vài phút nhanh chóng đã có ngay phần bánh gạo ngon mê ly",
+      "cate_id": 8,
+      "id": 9
+    },
+    {
+      "name": "Sườn vai heo nhập khẩu đông lạnh túi 500g (2-4 miếng)",
+      "price": "32500",
+      "image": "./img/suon-vai-heo-nhap-khau-dong-lanh-tui-1kg-202108281827273612.jpeg",
+      "detail": "Sườn vai heo nhập khẩu với phần thịt sườn săn chắc, thơm nên thường dùng để hầm nấu canh hoặc sườn ram mặn. Sườn vai heo nhập khẩu đông lạnh với phương pháp cấp đông hiện đại, giúp lưu giữ hương vị tự nhiên, mang đến những món ăn ngon cho gia đình.",
+      "cate_id": 1,
+      "id": 10
+    },
+    {
+      "name": "Đầu cá hồi tươi đông lạnh túi 500g (1-2 đầu)",
+      "price": "34500",
+      "image": "./img/dau-ca-hoi-tuoi-dong-lanh-tui-500g-202109281539238534.jpg",
+      "detail": "Đầu cá hồi có xương mềm, béo có thể nấu canh chua, nấu lẩu,... đầu cá mua về có thể dùng muối và chanh để khử mùi tanh. Đầu cá hồi tươi đông lạnh có thể kéo dài thời gian bảo quản, thích hợp cho nhu cầu gia đình trong việc chế biến và mang đến những món ăn bổ dưỡng",
+      "cate_id": 2,
+      "id": 11
+    },
+    {
+      "name": "Cá thu đao đông lạnh túi 500g (4-6 con)",
+      "price": "64000",
+      "image": "./img/ca-thu-dao-dong-lanh-tui-500g-202109281547277331.jpg",
+      "detail": "Đây là một trong những loại cá thu rất ngon, cá thu đao có phần thịt cá dai ngon, có vị ngọt tự nhiên nên rất ngon. Cá thu đao đông lạnh giúp bảo quản lâu hơn mà thịt cá vẫn chắc, không bở mà vẫn giữ nguyên vị đậm đà, là nguyên liệu nấu ăn không thể thiếu của nhiều gia đình.",
+      "cate_id": 2,
+      "id": 12
+    },
+    {
+      "name": "Cá chạch sụn túi 300g (4-6 con)",
+      "price": "47500",
+      "image": "./img/ca-chach-sun-tui-300g-202101271556405464.jpg",
+      "detail": "Với hương vị mềm, thơm ngon, cá trạch là thực phẩm chứa lượng protein cao, ít chất béo tạo cho bữa ăn tinh tế, đủ chất. Sản phẩm có thể chế biến thành rất nhiều món ăn ngon như kho nghệ, chiên giòn, kho thơm chua ngọt,...",
+      "cate_id": 2,
+      "id": 13
+    },
+    {
+      "name": "Đậu que gói 500g",
+      "price": "20000",
+      "image": "./img/dau-cove-tui-500g-202009290951591991.jpg",
+      "detail": "Đậu cô ve Bách Hóa Xanh là loại thực phẩm mang lại rất nhiều giá trị dinh dưỡng cần thiết cho cơ thể như giàu chất xơ, vitamin K, C, A, B1, B2, B3, B6, E và các khoáng chất như Canxi, Sắt, Magie, Phốt pho, Kali, Natri, Kẽm, Đồng,...,giúp giảm lượng Cholesterol xấu, bảo vệ sức khỏe tim mạch.",
+      "cate_id": 4,
+      "id": 15
+    },
+    {
+      "name": "Hành tím túi 300g",
+      "price": "17000",
+      "image": "./img/hanh-tim-tui-300g-202202080924464271.jpg",
+      "detail": "Hành tím là gia vị không thể thiếu trong căn bếp của mỗi gia đình. Hành tím không chỉ giúp món ăn của bạn thêm đậm đà, hấp dẫn mà còn còn có công dụng trong việc chăm sóc sức khỏe. Trong hành tím có chứa rất nhiều chất dinh dưỡng tốt cho sức như: Vitamin C, B6, canxi,..",
+      "cate_id": 4,
+      "id": 16
+    },
+    {
+      "name": "Cá thu túi 200g (3-5 khúc)",
+      "price": "300000",
+      "image": "./img/ca-thu-tui-300g-202101071941574647.jpg",
+      "detail": "Cá thu được xếp vào trong 4 loại cá đặc sản ngon của biển, thịt thơm và bổ dưỡng. Cá thu là một trong những loại cá biển có thịt thơm ngon, nhiều giá trị dinh dưỡng như chất béo, chất đạm. Cá thu là sự tổng hợp của những vitamin và khoáng chất hàng đầu mà cơ thể cần thiết. Thịt cá thu rất giàu vitamin A, D, magie, kẽm, phốt pho, canxi,... giàu dinh dưỡng và năng lượng.",
+      "cate_id": 2,
+      "id": 17
+    },
+    {
+      "name": "1/8 Cải bẹ xanh baby gói 300g",
+      "price": "15500",
+      "image": "./img/cai-be-xanh-baby-tui-300g-202012082224123883.jpg",
+      "detail": "Cải bẹ xanh baby được trồng bằng kỹ thuật canh tác chuyên biệt, có thời gian thu hoạch ngắn hơn 1 nửa so với thông thường, là rau non nên có độ giòn, ngọt hơn rất nhiều. Giữ được nguyên vẹn các giá trị dinh dưỡng,rất thích hợp dùng làm các món rau ăn kèm cho các món cuốn bánh tráng, bánh xèo,..",
+      "cate_id": 4,
+      "id": 18
+    },
+    {
+      "name": "Thùng 24 ly mì Koreno vị kim chi 65g",
+      "price": "116000",
+      "image": "./img/thung-24-ly-mi-koreno-vi-kim-chi-65g-202101221636441923.jpg",
+      "detail": "Sợi mì vàng dai ngon hòa quyện trong nước súp Koreno vị kim chi đậm đà thấm đều trong từng sợi cùng hương thơm lừng quyến rũ ngất ngây. 24 ly mì Koreno vị kim chi 65g tiện lợi thơm ngon hấp dẫn cho những bữa ăn nhanh gọn, đơn giản và đầy đủ dưỡng chất",
+      "cate_id": 8,
+      "id": 19
+    },
+    {
+      "name": "Kem que socola hạnh nhân Celano Passion classic 70ml",
+      "price": "20000",
+      "image": "./img/kem-que-socola-hanh-nhan-celano-passion-classic-70ml-202202240815357714.jpeg",
+      "detail": "Kem que Celano là một trong những dòng kem cao cấp, quen thuộc đối với người dùng. Sản phẩm kem que socola hạnh nhân Celano Passion classic cây 70ml mang đến cảm giác mát mẻ của kem passion sô cô la cao cấp kết hợp với hạnh nhân thượng đỉnh.",
+      "cate_id": 5,
+      "id": 20
+    }
+  ],
+  "orders": [
+    {
+      "created_date": "2022-03-10",
+      "customer_address": "Đà Nẵng",
+      "customer_email": "hue@gmail.com",
+      "customer_name": "adad Tuấn Anh Nguyễn",
+      "customer_phone_number": "0973123122",
+      "id": "yJcXP4J",
+      "status": "Đã Giao Hàng"
+    },
+    {
+      "customer_name": "Thia Nguyên Rôn",
+      "customer_address": "kiệt 60, Nguyễn Đức Chinh, Quận 2 HCM",
+      "customer_email": "chinh@gmail.com",
+      "customer_phone_number": "09731231222",
+      "created_date": "2022-03-10",
+      "status": "Chờ xác nhận",
+      "id": "hlW93pi"
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": "yJcXP4J",
+      "product_id": 7,
+      "quantity": 5,
+      "unit_price": "80000",
+      "id": 82
+    },
+    {
+      "order_id": "yJcXP4J",
+      "product_id": 20,
+      "quantity": 1,
+      "unit_price": "20000",
+      "id": 83
+    },
+    {
+      "order_id": "hlW93pi",
+      "product_id": 9,
+      "quantity": 1,
+      "unit_price": "19400",
+      "id": 84
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "product1",
+      "price": "500",
+      "image": "ba-roi.jpg",
+      "quantity": 4
+    },
+    {
+      "id": 2,
+      "name": "product2",
+      "price": "500",
+      "image": "ba-roi.jpg",
+      "quantity": 15
+    },
+    {
+      "id": 3,
+      "name": "product2",
+      "price": "500",
+      "image": "ba-roi.jpg",
+      "quantity": 15
+    }
+  ]
+}
